@@ -48,7 +48,7 @@ export default function GetInTouch() {
             <div className="container">
                 <div className="grid grid-cols-1 pb-8 text-center">
                     <h3 className="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">Get In Touch !</h3>
-                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a UI/UX Developer. Overall 5 years of experience. Experienced with all stages of the development.</p>
+                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">A Front End Developer builds responsive, user-friendly, and visually engaging interfaces by translating design concepts into functional code. They collaborate with designers, back-end developers, and stakeholders to implement seamless user experiences. Using HTML, CSS, and JavaScript frameworks, they ensure cross-browser compatibility, optimize performance, and maintain clean, reusable code. They also conduct usability testing, gather feedback, and iterate on designs to improve accessibility and overall user satisfaction</p>
                 </div>
 
                 <div className="grid grid-cols-1 lg:grid-cols-12 md:grid-cols-2 mt-8 items-center gap-[30px]">

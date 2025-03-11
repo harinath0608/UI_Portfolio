@@ -6,7 +6,7 @@ export default function Experience(){
                 <div className="grid grid-cols-1 pb-8 text-center">
                     <h3 className="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">Work Experience</h3>
 
-                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a UI/UX Developer. Overall 5 years of experience. Experienced with all stages of the development.</p>
+                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a Web Developer. Web Developer with over 5 years of experience. Experienced with all stages of the development and design.</p>
                 </div>
 
                 <div className="grid grid-cols-1 mt-8">
@@ -21,8 +21,8 @@ export default function Experience(){
                                 </div>
 
                                 <div className="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0">
-                                    <h5 className="title mb-1 font-semibold">UX / UI Designer</h5>
-                                    <p className="mt-3 mb-0 text-slate-400 text-[15px]">A UX/UI Designer creates intuitive and visually appealing interfaces by conducting user research, designing wireframes, and ensuring usability. They collaborate with teams, test designs, and refine them based on user feedback to enhance the overall experience.</p>
+                                    <h5 className="title mb-1 font-semibold">Front End Developer </h5>
+                                    <p className="mt-3 mb-0 text-slate-400 text-[15px]">A Front End Developer builds responsive, user-friendly, and visually engaging interfaces by translating design concepts into functional code. They collaborate with designers, back-end developers, and stakeholders to implement seamless user experiences. Using HTML, CSS, and JavaScript frameworks, they ensure cross-browser compatibility, optimize performance, and maintain clean, reusable code. They also conduct usability testing, gather feedback, and iterate on designs to improve accessibility and overall user satisfaction</p>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ export default function Experience(){
                                 <div className="text-start md:ms-8 relative md:order-2">
                                     
                                     <h5 className="my-2 font-semibold text-lg">Aarth Software</h5>
-                                    <h6 className="text-sm mb-0">2021-22</h6>
+                                    <h6 className="text-sm mb-0">2020-21</h6>
                                 </div>
 
                                 <div className="ltr:float-left rtl:float-right md:text-end md:me-8 mt-6 md:mt-0 md:order-1">
@@ -47,7 +47,7 @@ export default function Experience(){
                                 <div className="md:text-end md:me-8 relative">
                                     
                                     <h5 className="my-2 font-semibold text-lg"> Data Wave Technologies </h5>
-                                    <h6 className="text-sm mb-0">2019-21</h6>
+                                    <h6 className="text-sm mb-0">2019-20</h6>
                                 </div>
 
                                 <div className="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0">

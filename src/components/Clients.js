@@ -40,7 +40,7 @@ export default function Clients(){
                 <div className="grid grid-cols-1 pb-8 text-center">
                     <h3 className="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">Client's Review</h3>
 
-                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a UI/UX Developer. Overall 5 years of experience. Experienced with all stages of the development.</p>
+                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a Web Developer. Web Developer with over 5 years of experience. Experienced with all stages of the development and design.</p>
                 </div>
                 <div className="grid relative grid-cols-1 mt-8">
                     <div className="tiny-three-item">

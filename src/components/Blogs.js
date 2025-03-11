@@ -10,7 +10,7 @@ export default function Blogs(){
             <div className="grid grid-cols-1 pb-8 text-center">
                 <h3 className="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">Blogs or News</h3>
 
-                <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a Web Designer. Web Developer with over 7 years of experience. Experienced with all stages of the development.</p>
+                <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a Web Developer. Web Developer with over 5 years of experience. Experienced with all stages of the development and design.</p>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px] mt-8">
