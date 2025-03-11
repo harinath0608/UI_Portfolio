@@ -15,7 +15,7 @@ export default function Footer(){
                     </div>
 
                     <div className="lg:col-span-5 text-center mt-6 md:mt-0">
-                        <p className="mb-0">©2025 Made With By Harinath Harinath </p>
+                        <p className="mb-0">©2025 Made With By Harinath </p>
                     </div>
 
 
