@@ -1,51 +1,51 @@
 import * as Icon from 'react-feather';
 export const expertiseData = [
     {
-        title:'Developing',
+        title:'React Skills - Redux',
         Icon: Icon.Monitor
     },
     {
-        title:'Mac OS',
+        title:'JavaScript/TypeScript',
         Icon: Icon.StopCircle
     },
     {
-        title:'Cinema',
+        title:'Styling and UI Libraries',
         Icon: Icon.Video
     },
     {
-        title:'Coffee',
+        title:'Build Tools and Package Managers',
         Icon: Icon.Coffee
     },
     {
-        title:'Music',
+        title:'Version Control',
         Icon: Icon.Music
     },
     {
-        title:'Games',
+        title:'Testing',
         Icon: Icon.Watch
     },
     {
-        title:'Designing',
+        title:'RESTful APIs',
         Icon: Icon.Box
     },
     {
-        title:'Sports',
+        title:'Performance Optimization',
         Icon: Icon.Target
     },
     {
-        title:'Painting',
+        title:'Open Source Contributions',
         Icon: Icon.PenTool
     },
     {
-        title:'Reading',
+        title:'Building Side Projects',
         Icon: Icon.Book
     },
     {
-        title:'Android',
+        title:'Teaching or Mentoring',
         Icon: Icon.Smartphone
     },
     {
-        title:'Other Activity',
+        title:'Coding Challenges',
         Icon: Icon.Activity
     },
 ]

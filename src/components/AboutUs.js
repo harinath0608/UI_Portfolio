@@ -19,7 +19,7 @@ export default function AboutUs(){
                                 <span className="text-2xl font-medium text-amber-500 mb-0"><span className="counter-value font-bold" data-target="7"><CountUp
                                             start={0}
                                             className="counter-value"
-                                            end={3}
+                                            end={2}
                                             duration={2.75} /></span>+</span>
                                 <span className="text-sm text-slate-400">Years <br/> Experience</span>
                             </div>
@@ -30,7 +30,7 @@ export default function AboutUs(){
                         <div className="lg:ms-5">
                             <h3 className="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">I'm a Passionate Front End Developer </h3>
 
-                            <p className="text-slate-400 max-w-xl text-[15px]">I’m a passionate Web Developer specializing in UI and React framework, with 5+ years of experience creating dynamic, user-centric web applications. My mission is to deliver intuitive, visually stunning designs that elevate user experiences. Let’s collaborate to bring your vision to life with cutting-edge solutions!</p>
+                            <p className="text-slate-400 max-w-xl text-[15px]">I’m a passionate Web Developer specializing in UI and React framework, with 6 years of experience creating dynamic, user-centric web applications. My mission is to deliver intuitive, visually stunning designs that elevate user experiences. Let’s collaborate to bring your vision to life with cutting-edge solutions!</p>
                             
                         
                             <div className="mt-6">
@@ -45,7 +45,7 @@ export default function AboutUs(){
                 <div className="grid grid-cols-1 pb-8 text-center">
                     <h3 className="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">Hobbies & Expertise</h3>
 
-                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a Web Developer. Web Developer with over 5 years of experience. Experienced with all stages of the development and design.</p>
+                    <p className="text-slate-400 max-w-xl mx-auto text-[15px]">Obviously I'm a Web Developer. Web Developer with over 6 years of experience. Experienced with all stages of the development and design.</p>
                 </div>
 
                 <div className="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 mt-8 gap-[30px]">
