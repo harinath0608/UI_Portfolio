@@ -36,18 +36,18 @@ export default function HeroOne(){
                     <div className="relative">
                         <img src="/images/hero/3.png" alt=""/>
 
-                        <div className="absolute lg:bottom-20 md:bottom-10 bottom-2 ltr:md:-left-5 ltr:left-2 rtl:md:-right-5 rtl:right-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
-                            <span className="text-3xl font-medium mb-0"><span className="counter-value font-bold" data-target="125"> <CountUp
+                        {/* <div className="absolute lg:bottom-20 md:bottom-10 bottom-2 ltr:md:-left-5 ltr:left-2 rtl:md:-right-5 rtl:right-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center"> */}
+                            {/* <span className="text-3xl font-medium mb-0"><span className="counter-value font-bold" data-target="125"> <CountUp
                                             start={0}
                                             className="counter-value"
                                             end={10}
-                                            duration={0.80} /></span>+</span>
-                            <h6 className="text-sm text-slate-400 mt-1"> Project Completed </h6>
-                        </div>
+                                            duration={0.80} /></span>+</span> */}
+                            {/* <h6 className="text-sm text-slate-400 mt-1"> Project Completed </h6> */}
+                        {/* </div> */}
 
                         <div className="absolute lg:top-80 md:top-56 top-48 ltr:md:-right-0 ltr:right-2 rtl:md:-left-0 rtl:left-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
                             <h6 className="font-semibold"> Front End Developer </h6>
-                            <h6 className="text-sm text-slate-400 mt-1"> 3+ Years Experience </h6>
+                            <h6 className="text-sm text-slate-400 mt-1"> 2+ Years Experience </h6>
                         </div>
                     </div>
                 </div>
