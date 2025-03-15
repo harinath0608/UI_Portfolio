@@ -51,33 +51,33 @@ export const expertiseData = [
 ]
 export const servicesData = [
     {
-        title:'UX / UI Design',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        title:'UX / UI Developer',
+        desc:'As UX/UI Developer designs intuitive, user-friendly interfaces, blending creativity with technical skills to enhance user experience and functionality',
         Icon: Icon.Airplay
     },
     {
         title:'Graphic Designer',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        desc:'As Graphic Designer crafts visually compelling designs, combining creativity and technical expertise to communicate ideas and enhance brand identity',
         Icon: Icon.Aperture
     },
     {
-        title:'2D Animator',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        title:'UI Web Applications',
+        desc:'As UI Web Applications developer designs and builds user-friendly, responsive interfaces, ensuring seamless functionality and engaging user experiences',
         Icon: Icon.Camera
     },
     {
         title:'Video Editing',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        desc:'As Video Editor transforms raw footage into compelling stories, blending creativity and technical skills to craft engaging visuals and seamless narratives',
         Icon: Icon.Compass
     },
     {
-        title:'Web Design',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        title:'Single Page Applications',
+        desc:'As Single Page Application (SPA) developer creates fast, dynamic web apps with seamless navigation, delivering smooth user experiences and efficient performance',
         Icon: Icon.Settings
     },
     {
         title:'Social Media Management',
-        desc:'The phrasal sequence of the is now so that many campaign and benefit',
+        desc:'As Social Media Manager strategizes, curates, and engages audiences with compelling content, driving brand growth and fostering meaningful online connections',
         Icon: Icon.Watch
     },
 
